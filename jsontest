@@ -1,0 +1,18 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "Firstname": "Cristian",
+      "Surname": "Bustos",
+      "Description": "Esto es una prueba",
+      "Score": "0"
+    },
+    {
+      "UserId": "1",
+      "Firstname": "Agustín",
+      "Surname": "Ávila",
+      "Description": "Esto es una prueba",
+      "Score": "0"
+    }
+  ]
+}
